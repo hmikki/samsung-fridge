@@ -1,0 +1,28 @@
+.gc-ew-options-wrapper {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 15px 0;
+    border-top: 1px solid #eee;
+    width: 100%;
+}
+.gc-ew-options-bottom {
+    display: inline-block;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    width: 100%;
+}
+.gc-ew-options-wrapper > .fa, .gc-ew-options-bottom > .fa {
+    color:#ffaa00;
+}
+.gc-ew-options-wrapper ul, .gc-ew-options-bottom ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.gc-ew-options-wrapper ul li, .gc-ew-options-bottom ul li{
+    margin: 0;
+    padding-top: 10px !important;
+    padding: 0;
+}
